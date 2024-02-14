@@ -17,9 +17,9 @@ Correlation Heatmap: Generate a heatmap to showcase the correlation between the 
 Scatter Plot Visualization of Geographic Locations: Create scatter plots to visualize the geographic distribution of trips, providing insights into popular pickup and drop-off locations.
 
 Technologies Used:
-	•	Python
-	•	Pandas for data manipulation
-	•	Seaborn and Matplotlib for data visualization
+- Python
+- Pandas for data manipulation
+- Seaborn and Matplotlib for data visualization
  
 The analysis and visualizations derived from this project aim to enhance understanding and provide actionable insights for optimizing Uber services.
 
