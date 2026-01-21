@@ -1,4 +1,4 @@
-# Uber Trips Analysis
+# Uber Trips Analysis 🏁🚗🚕🚙
 
 This project involves the analysis and visualization of Uber trips data using Python, with a focus on extracting meaningful insights. The primary tools utilized are pandas for data manipulation, seaborn and matplotlib for visualization. The analysis covers various aspects such as trips by the hours in a day, trips during every day of the month, trips during weekdays, number of trips by bases, correlation heatmap between weekday and hour, and scatter plot visualization of geographic locations.
 
